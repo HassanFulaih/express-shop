@@ -1,0 +1,7 @@
+Hello
+
+npm init
+npm start
+npm run start-server
+npm install nodemon --save-dev
+/sudo/ npm install nodemon -g
